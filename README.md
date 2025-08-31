@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Emanual Joyal and I'm a Full Stack Dev, from Kerala,Kochi.</h2>
+<h2 align="left">Hi 👋! My name is Emanual Joyal and I'm a Full Stack Dev, from Kochi,Kerala.</h2>
 
 ###
 
