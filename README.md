@@ -9,6 +9,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV6dmIyNGR2ZWIxY3BkM2x5bWdlcGVqdnM5YnJvcmdjN296ejNxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
@@ -63,6 +65,7 @@
   <a href="https://www.linkedin.com/in/emanual-joyal-k-a-03436733a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
 </div>
 
 ###
